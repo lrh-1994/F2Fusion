@@ -8,3 +8,7 @@ We provide pre-trained model in the .\checkpoint file. Researchers can test fusi
 python test_fusion.py
 
 More experimental details and codes will be released soon......
+
+###########################
+We express our gratitude to the researchers who provide the evaluation code as reference, 
+and extend our thanks to the authors of the datasets and comparison methods.
